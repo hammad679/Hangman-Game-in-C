@@ -1,0 +1,3 @@
+Please add linker( -lwinmm) in compiler options to play the sounds
+And I add some .wav files Keep all the .wav files in the folder of project.
+And I read the logo from the TEXT file so Keep the text file in the folder of project.
